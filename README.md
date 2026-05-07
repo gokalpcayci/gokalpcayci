@@ -15,15 +15,13 @@ Portfolio: [My Portfolio](https://www.gokalpcayci.me/)
 
 ## About Me
 
-I enjoy building software that people can actually use. Over time my interests have moved beyond writing code for its own sake and toward building products, backend systems, and tools that stay useful as projects grow.
+I enjoy building software that people can actually use. My focus has gradually moved from writing code for its own sake toward building products, backend systems, and tools that stay useful as projects grow.
 
 Most of my work sits around full-stack product development, backend architecture, automation, and developer experience. I like turning rough ideas into working systems, improving workflows, and making software easier to maintain for both users and developers.
 
-What keeps coding interesting for me is mix of engineering and problem solving. I like shipping things, learning from feedback, and improving projects step by step instead of treating them like one-off experiments. If something can be made clearer, faster, or easier to work with, that usually catches my attention.
+Recent progress in AI has made it much easier to develop software and ship products faster. But to me, AI is still mostly an intent-perceiving tool: useful, fast, and often impressive, yet rarely able to deliver exactly what you want without leaving something unresolved.
 
-In recent years I have spent most of my time around TypeScript, JavaScript, Python, React, Node.js, PostgreSQL, and modern product tooling. I care about clean structure, readable code, practical automation, and choosing solutions that are solid without being overengineered.
-
-I also like exploring adjacent areas like frontend polish, deployment workflows, developer tooling, and applied ML. Those side explorations often end up improving how I think about product quality and engineering decisions in main projects.
+That gap is where I like to work. I enjoy shaping the final product, making judgment calls, refining details, and turning something almost right into something complete, clear, and usable.
 
 ## Core Stack
 
