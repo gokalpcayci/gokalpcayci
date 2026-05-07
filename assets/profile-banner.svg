@@ -1,0 +1,74 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Gokalp Cayci profile banner</title>
+  <desc id="desc">Dark profile banner with name, role, and focus areas.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="180" y1="64" x2="1020" y2="256" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60A5FA"/>
+      <stop offset="0.5" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#34D399"/>
+    </linearGradient>
+    <filter id="blur" x="760" y="-24" width="300" height="300" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="28"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <rect x="32" y="32" width="1136" height="256" rx="20" fill="#0F172A" stroke="#1F2937"/>
+
+  <circle cx="920" cy="96" r="84" fill="#60A5FA" fill-opacity="0.12" filter="url(#blur)"/>
+  <circle cx="1010" cy="198" r="70" fill="#A78BFA" fill-opacity="0.12" filter="url(#blur)"/>
+
+  <rect x="72" y="68" width="112" height="12" rx="6" fill="#1E293B"/>
+  <rect x="72" y="104" width="426" height="14" rx="7" fill="url(#accent)"/>
+
+  <text x="72" y="152" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="44" font-weight="700">
+    Gokalp Cayci
+  </text>
+  <text x="72" y="190" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20">
+    Software Engineer
+  </text>
+  <text x="72" y="222" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">
+    Full-stack systems / backend services / developer tooling / automation
+  </text>
+
+  <g>
+    <rect x="72" y="246" width="164" height="34" rx="17" fill="#111827" stroke="#334155"/>
+    <text x="104" y="268" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">
+      Ankara, Turkey
+    </text>
+    <circle cx="89" cy="263" r="6" fill="#34D399"/>
+  </g>
+
+  <g>
+    <rect x="802" y="64" width="284" height="180" rx="18" fill="#0B1220" stroke="#1F2937"/>
+    <text x="832" y="106" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">
+      Building with
+    </text>
+
+    <rect x="832" y="126" width="92" height="28" rx="14" fill="#1D4ED8"/>
+    <text x="854" y="145" fill="#EFF6FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">TypeScript</text>
+
+    <rect x="934" y="126" width="74" height="28" rx="14" fill="#166534"/>
+    <text x="959" y="145" fill="#F0FDF4" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Node.js</text>
+
+    <rect x="1018" y="126" width="68" height="28" rx="14" fill="#1D4ED8"/>
+    <text x="1042" y="145" fill="#EFF6FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Python</text>
+
+    <rect x="832" y="166" width="68" height="28" rx="14" fill="#0F766E"/>
+    <text x="855" y="185" fill="#F0FDFA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">React</text>
+
+    <rect x="910" y="166" width="96" height="28" rx="14" fill="#4338CA"/>
+    <text x="933" y="185" fill="#EEF2FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">PostgreSQL</text>
+
+    <rect x="1016" y="166" width="70" height="28" rx="14" fill="#0EA5E9"/>
+    <text x="1040" y="185" fill="#F0F9FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Docker</text>
+
+    <text x="832" y="225" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">
+      Production-minded engineering.
+    </text>
+  </g>
+</svg>
