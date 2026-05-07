@@ -1,0 +1,5 @@
+#!/bin/sh
+# Drop Co-authored-by trailers so commits stay single-author in this repo.
+msg_file=$1
+[ -n "$msg_file" ] && [ -f "$msg_file" ] || exit 0
+sed -i '' '/^[[:space:]]*[Cc][Oo]-[Aa]uthored-[Bb][Yy]:/d' "$msg_file"
